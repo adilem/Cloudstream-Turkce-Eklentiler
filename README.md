@@ -1,2 +1,2 @@
-# Cloudstream-Turkce-Eklentiler
-CloudStream için Türkçe yayın yapan kaynaklara ait eklentiler
+# Cloudstream Türkçe Eklentiler
+[Depoyu otomatik yüklemek için tıklayın](https://keyiflerolsun.me/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/repo.json)
