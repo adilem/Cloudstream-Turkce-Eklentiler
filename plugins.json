@@ -41,5 +41,25 @@
         "description": "RecTv APK, T\u00fcrkiye\u2019deki en pop\u00fcler \u00c7evrimi\u00e7i Medya Ak\u0131\u015f platformlar\u0131ndan biridir. Filmlerin, Canl\u0131 Sporlar\u0131n, Web Dizilerinin ve \u00e7ok daha fazlas\u0131n\u0131n keyfini \u00fccretsiz \u00e7\u0131kar\u0131n.",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/RecTV.cs3",
         "name": "RecTV"
+    },
+      {
+        "iconUrl": "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
+        "fileSize": 24152,
+        "status": 3,
+        "language": "tr",
+        "authors": [
+            "usdogu",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 4,
+        "internalName": "GolgeTV",
+        "description": "GolgeTV cloudstream eklentisidir. Sevdi\u011finiz yay\u0131n platformlar\u0131n\u0131 ve canl\u0131 ma\u00e7lar\u0131 burada bulabilirsiniz.",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/GolgeTV.cs3",
+        "name": "GolgeTV"
     }
 ]
