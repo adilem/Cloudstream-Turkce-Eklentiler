@@ -14,7 +14,7 @@
       "TvSeries",
       "Live"
     ],
-    "version": -1,
+    "version": 1,
     "internalName": "InatBox",
     "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
     "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/InatBox.cs3",
@@ -36,7 +36,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": -1,
+    "version": 1,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/RecTV.cs3",
@@ -56,7 +56,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": -1,
+    "version": 1,
     "internalName": "GolgeTV",
     "description": "GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
     "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/GolgeTV.cs3",
@@ -75,7 +75,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": -1,
+    "version": 1,
     "internalName": "AnimeciX",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AnimeciX.cs3",
