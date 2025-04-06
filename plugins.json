@@ -56,7 +56,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 4,
+        "version": -1,
         "internalName": "GolgeTV",
         "description": "GolgeTV cloudstream eklentisidir. Sevdi\u011finiz yay\u0131n platformlar\u0131n\u0131 ve canl\u0131 ma\u00e7lar\u0131 burada bulabilirsiniz.",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/GolgeTV.cs3",
