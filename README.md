@@ -1,4 +1,4 @@
-# Cloudstream Türkçe Eklentiler
+# Makoto'nun Cloudstream Türkçe Eklentileri
 
 [Depoyu otomatik yüklemek için tıklayın](https://keyiflerolsun.me/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/repo.json)
 
