@@ -4,5 +4,6 @@
 
 ## Şu an mevcut bulunan eklentiler
 InatBox
+RecTV
 
 
