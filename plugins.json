@@ -14,7 +14,7 @@
       "TvSeries",
       "Live"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "InatBox",
     "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
     "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/InatBox.cs3",
