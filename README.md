@@ -10,6 +10,7 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 
 ## Son Güncellemeler
 9 Nisan - GölgeTv'deki giriş yapma sorunu giderildi
+
 8 Nisan - InatBox'ta yeni eklenen El Turco isimli içerik açılmıyordu. Extractor ekleyerek bu sorunu giderdim.
 
 ## Şu an mevcut bulunan eklentiler
