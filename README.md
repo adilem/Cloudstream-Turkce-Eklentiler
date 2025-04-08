@@ -8,6 +8,9 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Community ileride büyürse yavaş yavaş mesaj grupları da oluşturabiliriz.
 
+## Son Güncellemeler
+8 Nisan - InatBox'ta yeni eklenen El Turco isimli içerik açılmıyordu. Extractor ekleyerek bu sorunu giderdim.
+
 ## Şu an mevcut bulunan eklentiler
 InatBox
 RecTV
