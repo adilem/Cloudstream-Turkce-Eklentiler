@@ -1,8 +1,12 @@
 # Makoto'nun Cloudstream Türkçe Eklentileri
 
-[Depoyu otomatik yüklemek için tıklayın](https://keyiflerolsun.me/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/repo.json)
+Deponun kısa kodu: **makoto**
 
 [Sohbete katılmak için tıklayın](https://matrix.to/#/#makotocs:matrix.org)
+
+[Depoyu otomatik yüklemek için tıklayın](https://keyiflerolsun.me/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/repo.json)
+
+Eğer otomatik yüklemede sorun yaşıyorsanız, deponun kısa kodunu cloudstream'deki eklenti ekleme yerine yazınız. Böylece otomatik olarak eklenti kataloğumuza erişebileceksiniz.
 
 Cloudstream için artık eklenti aramanıza gerek yok. Türkçe içeriklerin tek adresi burası. Cloudstream'i android televizyonlarınıza, telefonlarınıza ve tabletlerinize kurarak reklamsız içerik izlemenin keyfine varabilirsiniz. Canlı maç, televizyon yayınlarımız da mevcuttur. Tabiki de hiçbirini biz yayınlamıyoruz eklentiler sadece extractor olarak çalışıyor. 
 
