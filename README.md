@@ -8,7 +8,7 @@ Cloudstream için artık eklenti aramanıza gerek yok. Türkçe içeriklerin tek
 
 Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini değiştirmesidir. Bu repositoryde olabildiğince güvenli olan kaynakları eklemeye çalışacağım.
 
-Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Community ileride büyürse yavaş yavaş mesaj grupları da oluşturabiliriz.
+Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
 10 Nisan - Sinewix eklentisi baştan düzenlenip eklendi
