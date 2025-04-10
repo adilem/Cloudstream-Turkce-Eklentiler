@@ -19,5 +19,8 @@ Varsa lütfen linklerini paylaşın, böylece işim hızlanmış olur.
 **Eklenti yazmanın zaman aldığını biliyor musunuz?**
 Saçma bir soru oldu ama gerçekten zaman alıyor, o yüzden belki de donate atmalısın?
 
+**Donate atmayı düşünür müsünüz?**
+Öylesine bir soru, genel kitlenin ne düşündüğünü öğrenmek istiyorum.
+
 **Kaynağın ismini issue başlığına yazdın mı?**
 [eklenti ismi] kısmına kaynağın ismini yazmalısın böylece kaynağın ismini direkt başlıkta görebiliriz.
