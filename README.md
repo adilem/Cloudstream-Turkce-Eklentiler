@@ -2,6 +2,8 @@
 
 [Depoyu otomatik yüklemek için tıklayın](https://keyiflerolsun.me/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/repo.json)
 
+[Sohbete katılmak için tıklayın](https://matrix.to/#/#makotocs:matrix.org)
+
 Cloudstream için artık eklenti aramanıza gerek yok. Türkçe içeriklerin tek adresi burası. Cloudstream'i android televizyonlarınıza, telefonlarınıza ve tabletlerinize kurarak reklamsız içerik izlemenin keyfine varabilirsiniz. Canlı maç, televizyon yayınlarımız da mevcuttur. Tabiki de hiçbirini biz yayınlamıyoruz eklentiler sadece extractor olarak çalışıyor. 
 
 Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini değiştirmesidir. Bu repositoryde olabildiğince güvenli olan kaynakları eklemeye çalışacağım.
