@@ -2,7 +2,7 @@
 name: Bulunmayan bir kaynağın eklentisinin yazılması
 about: Yeni bir eklenti eklenmesini istiyorsanız lütfen bunu seçiniz
 title: ''
-labels: ''
+labels: yeni eklenti isteği
 assignees: ''
 
 ---
