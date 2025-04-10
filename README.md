@@ -9,6 +9,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Community ileride büyürse yavaş yavaş mesaj grupları da oluşturabiliriz.
 
 ## Son Güncellemeler
+10 Nisan - Sinewix eklentisi baştan düzenlenip eklendi
+
 9 Nisan - GölgeTv'deki giriş yapma sorunu giderildi
 
 8 Nisan - InatBox'ta yeni eklenen El Turco isimli içerik açılmıyordu. Extractor ekleyerek bu sorunu giderdim.
