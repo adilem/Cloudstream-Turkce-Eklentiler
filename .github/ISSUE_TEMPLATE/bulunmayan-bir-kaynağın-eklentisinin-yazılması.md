@@ -1,7 +1,7 @@
 ---
 name: Bulunmayan bir kaynağın eklentisinin yazılması
 about: Yeni bir eklenti eklenmesini istiyorsanız lütfen bunu seçiniz
-title: ''
+title: Yeni eklenti isteği [eklenti ismi]
 labels: yeni eklenti isteği
 assignees: ''
 
@@ -18,3 +18,6 @@ Varsa lütfen linklerini paylaşın, böylece işim hızlanmış olur.
 
 **Eklenti yazmanın zaman aldığını biliyor musunuz?**
 Saçma bir soru oldu ama gerçekten zaman alıyor, o yüzden belki de donate atmalısın?
+
+**Kaynağın ismini issue başlığına yazdın mı?**
+[eklenti ismi] kısmına kaynağın ismini yazmalısın böylece kaynağın ismini direkt başlıkta görebiliriz.
