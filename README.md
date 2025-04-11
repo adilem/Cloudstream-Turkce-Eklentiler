@@ -15,6 +15,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+11 Nisan - GölgeTv'nin 1.8.3 versiyonunun mantığı eklendi, eklenti düzenlendi
+
 10 Nisan - Sinewix eklentisi baştan düzenlenip eklendi
 
 9 Nisan - GölgeTv'deki giriş yapma sorunu giderildi
