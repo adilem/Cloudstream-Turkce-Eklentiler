@@ -15,6 +15,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+13 Nisan - Sinewix arama özelliği eklendi
+
 12 Nisan - Yerel diziler ile ilgili çalışmalara başlandı
 
 11 Nisan - GölgeTv'nin 1.8.3 versiyonunun mantığı eklendi, eklenti düzenlendi
@@ -31,3 +33,4 @@ RecTV
 GolgeTV
 AnimeciX
 SineWix
+YerelDiziler
