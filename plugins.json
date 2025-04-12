@@ -49,13 +49,12 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "usdogu",
-      "keyiflerolsun"
+      "Makoto Tokioki"
     ],
     "tvTypes": [
       "Live"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "GolgeTV",
     "description": "GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
     "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/GolgeTV.cs3",
