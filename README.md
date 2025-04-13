@@ -2,6 +2,8 @@
 
 Deponun kısa kodu: **makoto**
 
+<img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/assets/persona-3-makoto-3393384685hh.gif" width="100%" />
+
 [Telegram duyuru kanalına katılmak için tıklayın](https://t.me/makotocs)
 
 [Matrix sohbet kanalına katılmak için tıklayın](https://matrix.to/#/#makotocs:matrix.org)
