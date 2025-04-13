@@ -4,7 +4,7 @@ Deponun kısa kodu: **makoto**
 
 [Matrix Sohbete katılmak için tıklayın](https://matrix.to/#/#makotocs:matrix.org)
 
-[Telegram kanalına katılmak için tıklayın](t.me/makotocs)
+[Telegram kanalına katılmak için tıklayın](https://t.me/makotocs)
 
 [Depoyu otomatik yüklemek için tıklayın](https://keyiflerolsun.me/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/repo.json)
 
