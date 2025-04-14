@@ -19,6 +19,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+15 Nisan - Kanal D dizileri eklentimize eklendi
+
 14 Nisan - ShowTv bazı dizilerin açılmaması sorunu giderildi
 
 13 Nisan - ShowTv YerelDiziler eklentisine eklendi
