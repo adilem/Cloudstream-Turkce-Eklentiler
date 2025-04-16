@@ -42,7 +42,7 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 ## Şu an mevcut bulunan eklentiler
 InatBox
 RecTV
-GolgeTV
+GolgeTV (Şu anlık kapalı şekilde, bakım çalışmasında)
 AnimeciX
 SineWix
 YerelDiziler
