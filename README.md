@@ -19,6 +19,16 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+18 Nisan - Tabii Spor ve TRT Canlı Kanalları eklendi.
+
+18 Nisan - Tabii eklentisindeki hata giderildi.
+
+18 Nisan - Tabii eklentisi depoya eklendi.
+
+17 Nisan - StarTV Yerel Diziler eklentisine eklendi.
+
+17 Nisan - Gölge TV Devre dışı bırakıldı.
+
 16 Nisan - Now Tv(Fox) dizileri eklentimize eklendi
 
 15 Nisan - Kanal D dizileri eklentimize eklendi
@@ -28,16 +38,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 13 Nisan - ShowTv YerelDiziler eklentisine eklendi
 
 13 Nisan - Sinewix arama özelliği eklendi
-
-12 Nisan - Yerel diziler ile ilgili çalışmalara başlandı
-
-11 Nisan - GölgeTv'nin 1.8.3 versiyonunun mantığı eklendi, eklenti düzenlendi
-
-10 Nisan - Sinewix eklentisi baştan düzenlenip eklendi
-
-9 Nisan - GölgeTv'deki giriş yapma sorunu giderildi
-
-8 Nisan - InatBox'ta yeni eklenen El Turco isimli içerik açılmıyordu. Extractor ekleyerek bu sorunu giderdim.
 
 ## Şu an mevcut bulunan eklentiler
 InatBox
@@ -51,3 +51,5 @@ AnimeciX
 SineWix
 
 YerelDiziler
+
+Tabii
