@@ -19,6 +19,10 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+19 Nisan - Tabii eklentisine arama fonksiyonu getirildi.
+
+19 Nisan - Yerel Diziler eklentisinde bir sorun giderildi.
+
 18 Nisan - Tabii Spor ve TRT Canlı Kanalları eklendi.
 
 18 Nisan - Tabii eklentisindeki hata giderildi.
@@ -34,10 +38,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 15 Nisan - Kanal D dizileri eklentimize eklendi
 
 14 Nisan - ShowTv bazı dizilerin açılmaması sorunu giderildi
-
-13 Nisan - ShowTv YerelDiziler eklentisine eklendi
-
-13 Nisan - Sinewix arama özelliği eklendi
 
 ## Şu an mevcut bulunan eklentiler
 InatBox
