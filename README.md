@@ -19,6 +19,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+20 Nisan - Yerel Diziler eklentisine arama fonksiyonu getirildi.
+
 19 Nisan - Tabii eklentisine arama fonksiyonu getirildi.
 
 19 Nisan - Yerel Diziler eklentisinde bir sorun giderildi.
