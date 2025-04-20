@@ -149,7 +149,7 @@
         "tvTypes": [
             "Cartoon, TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "CizgiVeDizi",
         "description": "Pop\u00fcler \u00e7izgi film ve dizilerin T\u00fcrk\u00e7e g\u00fcncel kayna\u011f\u0131.",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/CizgiVeDizi.cs3",
