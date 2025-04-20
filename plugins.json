@@ -136,5 +136,23 @@
         "description": "Tabii i\u00e7eriklerine bu eklenti sayesinde eri\u015febilirsiniz",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Tabii.cs3",
         "name": "Tabii"
+    },
+  {
+        "iconUrl": "https://cizgivedizi.com/Logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "Cartoon, TvSeries"
+        ],
+        "version": 1,
+        "internalName": "CizgiVeDizi",
+        "description": "Pop\u00fcler \u00e7izgi film ve dizilerin T\u00fcrk\u00e7e g\u00fcncel kayna\u011f\u0131.",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/CizgiVeDizi.cs3",
+        "name": "CizgiVeDizi"
     }
 ]
