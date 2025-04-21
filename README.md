@@ -19,6 +19,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+21 Nisan - WebDramaTurkey eklentisi yayınlanmıştır. Artık asya içeriklerine ulaşmak kolaylaştı.
+
 20 Nisan - Canlı TV eklentisi yayınlanmıştır.
 
 20 Nisan - ÇizgiveDizi eklentisi yayınlanmıştır.
@@ -36,10 +38,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 18 Nisan - Tabii eklentisindeki hata giderildi.
 
 18 Nisan - Tabii eklentisi depoya eklendi.
-
-17 Nisan - StarTV Yerel Diziler eklentisine eklendi.
-
-17 Nisan - Gölge TV Devre dışı bırakıldı.
 
 ## Şu an mevcut bulunan eklentiler
 InatBox
@@ -59,3 +57,5 @@ Tabii
 CizgiVeDizi
 
 CanliYayinlar
+
+WebDramaTurkey (Asya İçerikleri)
