@@ -19,6 +19,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+22 Nisan - TorrentFilm eklentisi yayınlandı. Artık 4K film izleyebilirsiniz.
+
 21 Nisan - WebDramaTurkey eklentisi yayınlanmıştır. Artık asya içeriklerine ulaşmak kolaylaştı.
 
 20 Nisan - Canlı TV eklentisi yayınlanmıştır.
@@ -59,3 +61,5 @@ CizgiVeDizi
 CanliYayinlar
 
 WebDramaTurkey (Asya İçerikleri)
+
+TorrentFilm (Gerçek 4K film içerikleri)
