@@ -188,7 +188,7 @@
             "TvSeries",
             "Anime"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "WebDramaTurkey",
         "description": "Asya i\u00e7eriklerinin tek adresi.",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/WebDramaTurkey.cs3",
