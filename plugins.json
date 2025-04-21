@@ -172,5 +172,26 @@
         "description": "Ulusal kanallar\u0131 bu eklentide izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/CanliTv.cs3",
         "name": "CanliTv"
+    },
+  {
+        "iconUrl": "https://webdramaturkey.org/public/static/logo.webp?v=1.0.19",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "WebDramaTurkey",
+        "description": "Asya i\u00e7eriklerinin tek adresi.",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/WebDramaTurkey.cs3",
+        "name": "WebDramaTurkey"
     }
 ]
