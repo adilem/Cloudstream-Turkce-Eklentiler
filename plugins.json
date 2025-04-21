@@ -167,7 +167,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "CanliTv",
         "description": "Ulusal kanallar\u0131 bu eklentide izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/CanliTv.cs3",
