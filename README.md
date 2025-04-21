@@ -19,7 +19,13 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
-20 Nisan - Yerel Diziler eklentisine arama fonksiyonu getirildi.
+20 Nisan - Canlı TV eklentisi yayınlanmıştır.
+
+20 Nisan - ÇizgiveDizi eklentisi yayınlanmıştır.
+
+19 Nisan - TRT 1 Dizileri Yerel Diziler Eklentisine dahil edildi.
+
+19 Nisan - Yerel Diziler eklentisine arama fonksiyonu getirildi.
 
 19 Nisan - Tabii eklentisine arama fonksiyonu getirildi.
 
@@ -35,12 +41,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 
 17 Nisan - Gölge TV Devre dışı bırakıldı.
 
-16 Nisan - Now Tv(Fox) dizileri eklentimize eklendi
-
-15 Nisan - Kanal D dizileri eklentimize eklendi
-
-14 Nisan - ShowTv bazı dizilerin açılmaması sorunu giderildi
-
 ## Şu an mevcut bulunan eklentiler
 InatBox
 
@@ -55,3 +55,7 @@ SineWix
 YerelDiziler
 
 Tabii
+
+CizgiVeDizi
+
+CanliYayinlar
