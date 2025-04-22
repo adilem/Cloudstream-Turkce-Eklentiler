@@ -207,7 +207,7 @@
             "Movie",
             "Torrent"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "TorrentFilm",
         "description": "T\u00fcrk\u00e7e altyaz\u0131l\u0131 torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/TorrentFilm.cs3",
