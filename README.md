@@ -41,30 +41,21 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 
 18 Nisan - Tabii eklentisindeki hata giderildi.
 
-## Şu an mevcut bulunan eklentiler
-InatBox
-
-RecTV
-
-GolgeTV (Şu anlık kapalı şekilde, bakım çalışmasında)
-
-AnimeciX
-
-SineWix
-
-YerelDiziler
-
-Tabii
-
-CizgiVeDizi
-
-CanliYayinlar (Ulusal ve bazı yabancı kanallar)
-
-WebDramaTurkey (Asya İçerikleri)
-
-TorrentFilm (Gerçek 4K film içerikleri)
-
-Dizilla (Zengin yabancı dizi içeriği)
+## 📦 Kullanıma Hazır Eklentiler
+| Eklenti | İçerik | Durum |
+|---------|----------|--------|
+| InatBox | Canlı yayınlar(Spor, Ulusal), popüler tv dizileri ve filmler | Aktif |
+| Rec Tv | Canlı yayınlar(Spor, Ulusal), popüler tv dizileri ve filmler | Aktif |
+| GolgeTV | Canlı yayınlar(Spor) | Aktif değil(bakım çalışmasında) |
+| Animecix | Japon animeleri ve anime filmleri | Aktif |
+| Sinewix | Popüler yabancı tv dizileri ve filmler | Aktif |
+| YerelDiziler | Türkiyede yayınlanan yerel popüler diziler | Aktif |
+| Tabii | Trt 1 içerikleri, yerli dizi, film, belgesel, çizgi filmler | Aktif |
+| CizgiVeDizi | Popüler çizgi filmler ve yabancı diziler | Aktif |
+| CanliYayinlar | HD canlı yayın ulusal kanallar | Aktif |
+| WebDramaTurkey | Popüler Asya içerikleri, diziler ve programlar | Aktif |
+| TorrentFilm | Altyazılı gerçek 4K çözünürlükteki filmler | Aktif |
+| Dizilla | Popüler yabancı diziler | Aktif |
 
 ## Not
 Yurtdışından eklenti içerikleri yüklenmeyebilir. Eklediğim kaynakların bazıları yurtdışı IP'lerine hizmet vermemektedir. O yüzden bir içeriği yüklerken hata alıyorsanız öncelikle VPN açık mı diye kontrol edin. İyi seyirler.
