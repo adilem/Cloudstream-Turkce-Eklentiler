@@ -41,8 +41,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 
 18 Nisan - Tabii eklentisindeki hata giderildi.
 
-18 Nisan - Tabii eklentisi depoya eklendi.
-
 ## Şu an mevcut bulunan eklentiler
 InatBox
 
@@ -60,10 +58,13 @@ Tabii
 
 CizgiVeDizi
 
-CanliYayinlar
+CanliYayinlar (Ulusal ve bazı yabancı kanallar)
 
 WebDramaTurkey (Asya İçerikleri)
 
 TorrentFilm (Gerçek 4K film içerikleri)
 
 Dizilla (Zengin yabancı dizi içeriği)
+
+## Not
+Yurtdışından eklenti içerikleri yüklenmeyebilir. Eklediğim kaynakların bazıları yurtdışı IP'lerine hizmet vermemektedir. O yüzden bir içeriği yüklerken hata alıyorsanız öncelikle VPN açık mı diye kontrol edin. İyi seyirler.
