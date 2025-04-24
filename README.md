@@ -19,7 +19,9 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
-24 Nisan - İçerik eksikliği olduğundan dolayı Dizilla eklentisi yüklenmiştir.
+24 Nisan - YerelProgramlar eklentisi oluşturuldu.
+
+24 Nisan - İçerik eksikliği olduğundan dolayı Dizilla eklentisi yüklenmiştir. (Küçük hataları giderildi)
 
 22 Nisan - TorrentFilm eklentisi yayınlandı. Artık 4K film izleyebilirsiniz.
 
@@ -39,8 +41,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 
 18 Nisan - Tabii Spor ve TRT Canlı Kanalları eklendi.
 
-18 Nisan - Tabii eklentisindeki hata giderildi.
-
 ## 📦 Kullanıma Hazır Eklentiler
 | Eklenti | İçerik | Durum |
 |---------|----------|--------|
@@ -56,6 +56,7 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | WebDramaTurkey | Popüler Asya içerikleri, diziler ve programlar | Aktif |
 | TorrentFilm | Altyazılı gerçek 4K çözünürlükteki filmler | Aktif |
 | Dizilla | Popüler yabancı diziler | Aktif |
+| YerelProgramlar | Popüler, güncel yerel tv programları | Aktif |
 
 ## Not
 Yurtdışından eklenti içerikleri yüklenmeyebilir. Eklediğim kaynakların bazıları yurtdışı IP'lerine hizmet vermemektedir. O yüzden bir içeriği yüklerken hata alıyorsanız öncelikle VPN açık mı diye kontrol edin. İyi seyirler.
