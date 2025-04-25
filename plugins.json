@@ -250,5 +250,23 @@
         "description": "Yerel programlar\u0131 g\u00fcncel \u015fekilde bulabilirsiniz",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelProgramlar.cs3",
         "name": "YerelProgramlar"
+    },
+  {
+        "iconUrl": "https://www.turksatkablo.com.tr/images/icerik/ssportplus.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "SSportPlus (Test Aşamasında)",
+        "description": "SSport+, \u015fu an test halinde",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SSportPlus.cs3",
+        "name": "SSportPlus"
     }
 ]
