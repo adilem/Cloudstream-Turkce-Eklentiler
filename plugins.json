@@ -263,10 +263,10 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
-        "internalName": "SSportPlus (Test Aşamasında)",
+        "version": 3,
+        "internalName": "SSportPlus",
         "description": "SSport+, \u015fu an test halinde",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SSportPlus.cs3",
-        "name": "SSportPlus"
+        "name": "SSportPlus (Test Aşamasında)"
     }
 ]
