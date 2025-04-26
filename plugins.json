@@ -112,7 +112,7 @@
         "tvTypes": [
             "Tv Series"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "YerelDiziler",
         "description": "Bu eklentide yerel dizileri g\u00fcncel \u015fekilde bulabilirsiniz",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelDiziler.cs3",
@@ -131,7 +131,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "Tabii",
         "description": "Tabii i\u00e7eriklerine bu eklenti sayesinde eri\u015febilirsiniz",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Tabii.cs3",
