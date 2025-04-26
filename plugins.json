@@ -112,7 +112,7 @@
         "tvTypes": [
             "Tv Series"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "YerelDiziler",
         "description": "Bu eklentide yerel dizileri g\u00fcncel \u015fekilde bulabilirsiniz",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelDiziler.cs3",
